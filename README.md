@@ -7,8 +7,10 @@
 取材自以下資源
 --------
 nowinandroid           
-https://github.com/android/nowinandroid                                                                                                                   
-                                                                                                                                                                       
+https://github.com/android/nowinandroid       
+	
+小紅書-找到妳想要的生活           
+https://play.google.com/store/apps/details?id=com.xingin.xhs                                                                                                                                                                                                                                                                                            
 預覽
 --------
 <p align="left">
